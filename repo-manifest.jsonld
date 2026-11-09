@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ThomasAribart/json-schema-to-ts/commit/5a7fcd43cf26ab25bd9bb0fb4084327c31a41c90",
       "git:hexsha": "5a7fcd43cf26ab25bd9bb0fb4084327c31a41c90",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T22:00:26.623362+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ThomasAribart/json-schema-to-ts/commit/e0741623a92e31d103bea114bbebb4494792d477",
