@@ -1,0 +1,11 @@
+{
+  "org": "ThomasAribart",
+  "repo": "json-schema-to-ts",
+  "versions": [
+    {
+      "commit": "5a7fcd43cf26ab25bd9bb0fb4084327c31a41c90",
+      "tag": "",
+      "parsed_at": "2026-11-09T22:00:26.624119+00:00"
+    }
+  ]
+}
